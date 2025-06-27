@@ -1,7 +1,3 @@
-Certainly! Here's your clean and **image-free** `README.md` file with only professional text content—no emojis or icons:
-
----
-
 # Comparing the Four Generative AI Tools: ChatGPT, DeepSeek, Gemini, and Copilot
 
 ## Project Overview
