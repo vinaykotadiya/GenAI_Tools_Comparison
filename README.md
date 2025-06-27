@@ -103,5 +103,3 @@ MSc Data Science, University of Hertfordshire
 GitHub: [vinaykotadiya](https://github.com/vinaykotadiya)
 
 ---
-
-Let me know if you want to include a separate AI comparison table, dataset source link, or future work section.
